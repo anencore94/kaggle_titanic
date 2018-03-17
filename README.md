@@ -1,2 +1,2 @@
 # kaggle_titanic
-my trial on kaggle_titanic
+my first trial on kaggle_titanic
